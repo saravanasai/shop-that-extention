@@ -1,0 +1,10 @@
+.overlayCard {
+  position: fixed;
+  left: 50%;
+  top: 30%;
+  max-width: 720px;
+  max-height: 400px;
+  background-color: #f5f5f5 !important;
+  z-index: 99999;
+  overflow-y: scroll;
+}
